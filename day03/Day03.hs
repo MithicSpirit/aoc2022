@@ -2,7 +2,7 @@
 
 {-# LANGUAGE ScopedTypeVariables #-}
 
-module Day03 where
+module Main where
 
 import Data.Char
 import Data.List

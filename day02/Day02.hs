@@ -1,6 +1,6 @@
 #!/usr/bin/env runghc
 
-module Day02 where
+module Main where
 
 import Data.Bifunctor
 
